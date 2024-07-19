@@ -6,4 +6,6 @@
 ###### test 6
 test
 ![Image of Yaktocat](https://github.com/)
+``` javascript
 var myVar = "Hello, world!";
+```
