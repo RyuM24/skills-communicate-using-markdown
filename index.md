@@ -5,5 +5,5 @@
 ##### test 5
 ###### test 6
 test
-![Image of Yaktocat]()
-abc
+![Image of Yaktocat](https://github.com/)
+var myVar = "Hello, world!";
